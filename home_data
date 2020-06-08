@@ -1,0 +1,463 @@
+{
+  "main_contets": [
+    {
+      "cid": "6191",
+      "title": "13 Reasons Why",
+      "image": "https://theaterplus.xyz/upload/13%20Reasons%20WhyS4.jpg",
+      "type": "series",
+      "total_season": 4
+    },
+    {
+      "cid": "6107",
+      "title": "Betaal",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTVxhnlc4fSnJQ0nwgww1NvCyJq0OuD7uKAaoRimfxS7HbsVqCC&usqp=CAU",
+      "type": "series",
+      "total_season": 1
+    },
+    {
+      "cid": "5971",
+      "title": "Paatal Lok",
+      "image": "https://upload.wikimedia.org/wikipedia/en/3/39/Paatal_Lok_poster.jpg",
+      "type": "series",
+      "total_season": 1
+    },
+    {
+      "cid": "6062",
+      "title": "Ghoomketu",
+      "image": "Ghoomketu2020.jpg",
+      "type": "movie",
+      "total_season": 1
+    },
+    {
+      "cid": "5161",
+      "title": "Extraction",
+      "image": "Extraction2020.jpg",
+      "type": "movie",
+      "total_season": 1
+    },
+    {
+      "cid": "5381",
+      "title": "Mrs. Serial Killer",
+      "image": "0498-2020-05-01.jpg",
+      "type": "movie",
+      "total_season": 1
+    },
+    {
+      "cid": "4161",
+      "title": "Asur",
+      "image": "3161-2020-03-30.jpg",
+      "type": "series",
+      "total_season": 1
+    }
+  ],
+  "lists": [
+    {
+      "header": "Trending",
+      "items": [
+        {
+          "cid": "6191",
+          "title": "13 Reasons Why",
+          "image": "https://theaterplus.xyz/upload/13%20Reasons%20WhyS4.jpg",
+          "type": "series",
+          "total_season": 4
+        },
+        {
+          "cid": "5971",
+          "title": "Paatal Lok",
+          "image": "https://upload.wikimedia.org/wikipedia/en/3/39/Paatal_Lok_poster.jpg",
+          "type": "series",
+          "total_season": 1
+        },
+        {
+          "cid": "6062",
+          "title": "Ghoomketu",
+          "image": "Ghoomketu2020.jpg",
+          "type": "movie",
+          "total_season": 1
+        },
+        {
+          "cid": "5161",
+          "title": "Extraction",
+          "image": "Extraction2020.jpg",
+          "type": "movie",
+          "total_season": 1
+        },
+        {
+          "cid": "5381",
+          "title": "Mrs. Serial Killer",
+          "image": "0498-2020-05-01.jpg",
+          "type": "movie",
+          "total_season": 1
+        },
+        {
+          "cid": "4416",
+          "title": "Ramayan",
+          "image": "Ramayan.jpg",
+          "type": "series",
+          "total_season": 1
+        },
+        {
+          "cid": "4161",
+          "title": "Asur",
+          "image": "3161-2020-03-30.jpg",
+          "type": "series",
+          "total_season": 1
+        }
+      ]
+    },
+    {
+      "header": "Popular on Netflix",
+      "items": [
+        {
+          "cid": "6191",
+          "title": "13 Reasons Why",
+          "image": "https://theaterplus.xyz/upload/13%20Reasons%20WhyS4.jpg",
+          "type": "series",
+          "total_season": 4
+        },
+        {
+          "cid": "6107",
+          "title": "Betaal",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTVxhnlc4fSnJQ0nwgww1NvCyJq0OuD7uKAaoRimfxS7HbsVqCC&usqp=CAU",
+          "type": "series",
+          "total_season": 1
+        },
+        {
+          "cid": "636",
+          "title": "Money Heist",
+          "image": "7807-2018-10-24.jpg",
+          "type": "series",
+          "total_season": 4
+        },
+        {
+          "cid": "5253",
+          "title": "Never Have I Ever",
+          "image": "Never Have I Ever.jpg",
+          "type": "series",
+          "total_season": 1
+        },
+        {
+          "cid": "3508",
+          "title": "6 Underground",
+          "image": "6 Underground.jpg",
+          "type": "movie",
+          "total_season": 0
+        },
+        {
+          "cid": "5932",
+          "title": "Stranger Things",
+          "image": "Stranger Things.jpg",
+          "type": "series",
+          "total_season": 3
+        },
+        {
+          "cid": "782",
+          "title": "Lost In Space",
+          "image": "4827-2018-11-03.jpg",
+          "type": "series",
+          "total_season": 2
+        },
+        {
+          "cid": "3178",
+          "title": "Elite",
+          "image": "Elite.jpg",
+          "type": "series",
+          "total_season": 3
+        },
+        {
+          "cid": "5142",
+          "title": "The Last Dance",
+          "image": "The Last Dance.jpg",
+          "type": "series",
+          "total_season": 1
+        },
+        {
+          "cid": "3830",
+          "title": "Narcos",
+          "image": "Narcos.jpg",
+          "type": "series",
+          "total_season": 3
+        },
+        {
+          "cid": "5214",
+          "title": "Taj Mahal 1989",
+          "image": "Taj Mahal 1989.jpg",
+          "type": "series",
+          "total_season": 1
+        },
+        {
+          "cid": "3850",
+          "title": "Locke & Key",
+          "image": "Locke & Key.jpg",
+          "type": "series",
+          "total_season": 1
+        },
+        {
+          "cid": "612",
+          "title": "Friends",
+          "image": "3389-2018-10-21.jpg",
+          "type": "series",
+          "total_season": 10
+        },
+        {
+          "cid": "5157",
+          "title": "Sex Education (Dual Audio)",
+          "image": "Sex Education.jpg",
+          "type": "series",
+          "total_season": 2
+        },
+        {
+          "cid": "636",
+          "title": "Money Heist",
+          "image": "7807-2018-10-24.jpg",
+          "type": "series",
+          "total_season": 4
+        },
+        {
+          "cid": "3766",
+          "title": "Jamtara - Sabka Number Ayega",
+          "image": "Jamtara - Sabka Number Ayega.jpg",
+          "type": "series",
+          "total_season": 1
+        },
+        {
+          "cid": "62",
+          "title": "Altered Carbon",
+          "image": "3563-2018-09-02.jpg",
+          "type": "series",
+          "total_season": 2
+        }
+      ]
+    },
+    {
+      "header": "Popular on Amazon ",
+      "items": [
+        {
+          "cid": "1605",
+          "title": "Mirzapur",
+          "image": "Mirzapur.jpg",
+          "type": "series",
+          "total_season": 1
+        },
+        {
+          "cid": "206",
+          "title": "Tom Clancys Jack Ryan",
+          "image": "6403-2018-09-15.jpg",
+          "type": "series",
+          "total_season": 2
+        },
+        {
+          "cid": "3057",
+          "title": "The Family Man",
+          "image": "The Family Man.jpg",
+          "type": "series",
+          "total_season": 1
+        },
+        {
+          "cid": "3456",
+          "title": "The Boys",
+          "image": "The Boys.jpg",
+          "type": "series",
+          "total_season": 1
+        },
+        {
+          "cid": "5971",
+          "title": "Paatal Lok",
+          "image": "https://upload.wikimedia.org/wikipedia/en/3/39/Paatal_Lok_poster.jpg",
+          "type": "series",
+          "total_season": 1
+        },
+        {
+          "cid": "4462",
+          "title": "Bumblebee",
+          "image": "Bumblebee.jpg",
+          "type": "movie",
+          "total_season": 3
+        },
+        {
+          "cid": "4646",
+          "title": "Panchayat",
+          "image": "Panchayat.jpg",
+          "type": "series",
+          "total_season": 1
+        },
+        {
+          "cid": "5541",
+          "title": "Parasite",
+          "image": "Parasite2019.jpg",
+          "type": "movie",
+          "total_season": 1
+        }
+      ]
+    },
+    {
+      "header": "Popular on Hotstar",
+      "items": [
+        {
+          "cid": "4249",
+          "title": "Special OPS",
+          "image": "Special OPS.jpg",
+          "type": "series",
+          "total_season": 1
+        },
+        {
+          "cid": "5893",
+          "title": "Hostages",
+          "image": "Hostages.jpg",
+          "type": "series",
+          "total_season": 1
+        },
+        {
+          "cid": "3400",
+          "title": "Criminal Justice",
+          "image": "9333-2020-03-27.jpg",
+          "type": "series",
+          "total_season": 1
+        },
+        {
+          "cid": "3401",
+          "title": "The Office",
+          "image": "The Office.jpg",
+          "type": "series",
+          "total_season": 9
+        }
+      ]
+    },
+    {
+      "header": "Best of Marvel",
+      "items": [
+        {
+          "cid": "3241",
+          "title": "Spider-Man: Far from Home",
+          "image": "Spider-Man: Far from Home.jpg",
+          "type": "movie",
+          "total_season": 0
+        },
+        {
+          "cid": "6179",
+          "title": "Avengers: Endgame",
+          "image": "Avengers: Endgame2019.jpg",
+          "type": "movie",
+          "total_season": 0
+        },
+        {
+          "cid": "6171",
+          "title": "Black Panther",
+          "image": "Black Panther2018.jpg",
+          "type": "movie",
+          "total_season": 0
+        },
+        {
+          "cid": "6167",
+          "title": "Avengers: Infinity War",
+          "image": "https://terrigen-cdn-dev.marvel.com/content/qa/1x/5ae4ca-MLou_13x19_DolbyAtAMC_Handout_v4_online_lg.jpg",
+          "type": "movie",
+          "total_season": 0
+        },
+        {
+          "cid": "6175",
+          "title": "Ant-Man and the Wasp",
+          "image": "Ant-Man and the Wasp2018.jpg",
+          "type": "movie",
+          "total_season": 0
+        },
+        {
+          "cid": "211",
+          "title": "Spider Man",
+          "image": "0840-2018-09-15.jpg",
+          "type": "movie",
+          "total_season": 0
+        },
+        {
+          "cid": "6177",
+          "title": "Thor: Ragnarok",
+          "image": "https://cdn11.bigcommerce.com/s-v2mqfizomm/images/stencil/original/products/1965/2233/Thor_Ragnarok__70332__72929.1529196389.jpg",
+          "type": "movie",
+          "total_season": 0
+        },
+        {
+          "cid": "6170",
+          "title": "Guardians of the Galaxy",
+          "image": "Guardians of the Galaxy2014.jpg",
+          "type": "movie",
+          "total_season": 0
+        },
+        {
+          "cid": "6169",
+          "title": "Guardians of the Galaxy Vol. 2",
+          "image": "Guardians of the Galaxy Vol. 22017.jpg",
+          "type": "movie",
+          "total_season": 0
+        },
+        {
+          "cid": "6176",
+          "title": "Doctor Strange",
+          "image": "Doctor Strange2016.jpg",
+          "type": "movie",
+          "total_season": 0
+        },
+        {
+          "cid": "6162",
+          "title": "Captain America: Civil War",
+          "image": "Captain America: Civil War2016.jpg",
+          "type": "movie",
+          "total_season": 0
+        }
+      ]
+    },
+    {
+      "header": "Best of DCEU",
+      "items": [
+        {
+          "cid": "5027",
+          "title": "Harley Quinn: Birds of Prey",
+          "image": "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)2020.jpg",
+          "type": "movie",
+          "total_season": 0
+        },
+        {
+          "cid": "3247",
+          "title": "Shazam!",
+          "image": "Shazam!.jpg",
+          "type": "movie",
+          "total_season": 0
+        },
+        {
+          "cid": "3248",
+          "title": "Aquaman",
+          "image": "Aquaman.jpg",
+          "type": "movie",
+          "total_season": 0
+        },
+        {
+          "cid": "202",
+          "title": "Justice League",
+          "image": "5367-2018-09-14.jpg",
+          "type": "movie",
+          "total_season": 0
+        },
+        {
+          "cid": "358",
+          "title": "Wonder Woman",
+          "image": "0141-2018-09-25.jpg",
+          "type": "movie",
+          "total_season": 0
+        },
+        {
+          "cid": "5281",
+          "title": "Man of Steel2013",
+          "image": "Man of Steel2013.jpg",
+          "type": "movie",
+          "total_season": 0
+        },
+        {
+          "cid": "5303",
+          "title": "Suicide Squad",
+          "image": "Suicide Squad2016.jpg",
+          "type": "movie",
+          "total_season": 0
+        }
+      ]
+    }
+  ]
+}
